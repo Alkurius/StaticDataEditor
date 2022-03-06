@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\static Data Editor\Binario\bin\Debug\staticData.exe.config
+C:\Users\user\Desktop\static Data Editor\Binario\bin\Debug\staticData.exe
+C:\Users\user\Desktop\static Data Editor\Binario\bin\Debug\staticData.pdb
+C:\Users\user\Desktop\static Data Editor\Binario\obj\Debug\staticData.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\static Data Editor\Binario\obj\Debug\Binario.MainForm.resources
+C:\Users\user\Desktop\static Data Editor\Binario\obj\Debug\staticData.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\static Data Editor\Binario\obj\Debug\staticData.exe
+C:\Users\user\Desktop\static Data Editor\Binario\obj\Debug\staticData.pdb
+C:\Users\user\Desktop\static Data Editor\staticData\bin\Debug\staticData.exe.config
+C:\Users\user\Desktop\static Data Editor\staticData\bin\Debug\staticData.exe
+C:\Users\user\Desktop\static Data Editor\staticData\bin\Debug\staticData.pdb
+C:\Users\user\Desktop\static Data Editor\staticData\obj\Debug\staticData.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\static Data Editor\staticData\obj\Debug\Binario.MainForm.resources
+C:\Users\user\Desktop\static Data Editor\staticData\obj\Debug\staticData.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\static Data Editor\staticData\obj\Debug\staticData.exe
+C:\Users\user\Desktop\static Data Editor\staticData\obj\Debug\staticData.pdb

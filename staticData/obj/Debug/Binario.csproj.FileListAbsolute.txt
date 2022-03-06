@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Binario\Binario\obj\Debug\Binario.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Binario\Binario\obj\Debug\Binario.MainForm.resources
+C:\Users\user\Desktop\Binario\Binario\obj\Debug\Binario.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Binario\Binario\bin\Debug\Binario.exe.config
+C:\Users\user\Desktop\Binario\Binario\bin\Debug\Binario.exe
+C:\Users\user\Desktop\Binario\Binario\bin\Debug\Binario.pdb
+C:\Users\user\Desktop\Binario\Binario\obj\Debug\Binario.exe
+C:\Users\user\Desktop\Binario\Binario\obj\Debug\Binario.pdb
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\bin\Debug\Binario.exe.config
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\bin\Debug\Binario.exe
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\bin\Debug\Binario.pdb
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\obj\Debug\Binario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\obj\Debug\Binario.MainForm.resources
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\obj\Debug\Binario.csproj.GenerateResource.Cache
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\obj\Debug\Binario.exe
+C:\Users\Rodrigo.castrillon\OneDrive - Xignux Corp\Desktop\Binario\Binario\obj\Debug\Binario.pdb
